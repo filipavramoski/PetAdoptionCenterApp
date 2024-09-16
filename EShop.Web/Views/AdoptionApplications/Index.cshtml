@@ -1,0 +1,217 @@
+﻿
+@model IEnumerable<EShop.Domain.Models.AdoptionApplication>
+@using Microsoft.Extensions.Options;
+@inject IOptions<EShop.Domain.StripeSettings> Stripe;
+
+@{
+    ViewData["Title"] = "Adoption Applications";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"] - EShop</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.0/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f0f2f5;
+            color: #333;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 2rem;
+            /* background-color: #ffffff; */
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: #4a4a4a;
+            margin-bottom: 1.5rem;
+            font-size: 2.5rem;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        .btn {
+            border-radius: 30px;
+            padding: 0.5rem 1rem;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+        .btn-danger {
+            background-color: #ff6b6b;
+            border-color: #ff6b6b;
+        }
+
+            .btn-danger:hover {
+                background-color: #ee5253;
+                border-color: #ee5253;
+            }
+
+        .table {
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+
+            .table thead {
+                background-color: #4a4a4a;
+                color: #ffffff;
+            }
+
+            .table th, .table td {
+                vertical-align: middle;
+            }
+
+            .table tbody tr:nth-of-type(odd) {
+                background-color: #f8f9fa;
+            }
+
+            .table tbody tr:hover {
+                background-color: #e9ecef;
+            }
+
+        .status-badge {
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            font-weight: bold;
+            text-transform: uppercase;
+            font-size: 0.75rem;
+        }
+
+        .status-pending {
+            background-color: #feca57;
+            color: #ffffff;
+        }
+
+        .status-approved {
+            background-color: #54a0ff;
+            color: #ffffff;
+        }
+
+        .status-rejected {
+            background-color: #ff6b6b;
+            color: #ffffff;
+        }
+
+        .stripe-button-el {
+            background-image: none !important;
+            background-color: #5cdb95 !important;
+            border-radius: 30px !important;
+        }
+
+            .stripe-button-el span {
+                background-image: none !important;
+                background-color: #5cdb95 !important;
+                box-shadow: none !important;
+                font-family: 'Arial', sans-serif !important;
+                font-weight: bold !important;
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1><i class="fas fa-paw mr-2"></i> Adoption Applications</h1>
+
+        <div class="row mb-4">
+            <div class="col text-end">
+                <a asp-action="ExportApplications" class="btn btn-danger">
+                    <i class="fas fa-file-export mr-2"></i> Export All Applications
+                </a>
+            </div>
+        </div>
+
+        <div class="table-responsive">
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>Status</th>
+                        <th>Pet</th>
+                        <th>Adopter</th>
+                        <th>Application Date</th>
+                        <th>Adoption Date</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                <span class="status-badge @(item.AdoptionApplicationStatus == EShop.Domain.Status.PetAdoptionApplicationStatus.Pending ? "status-pending" :
+                                                           item.AdoptionApplicationStatus == EShop.Domain.Status.PetAdoptionApplicationStatus.Approved ? "status-approved" : "status-rejected")">
+                                    @Html.DisplayFor(modelItem => item.AdoptionApplicationStatus)
+                                </span>
+                            </td>
+                            <td>@Html.DisplayFor(modelItem => item.Pet.Name)</td>
+                            <td>@Html.DisplayFor(modelItem => item.Adopter.FirstName) @Html.DisplayFor(modelItem => item.Adopter.LastName)</td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ApplicationDate.Date)
+                            </td>
+                            <td>
+                                @if (item.AdoptionDate.HasValue)
+                                {
+                                    @item.AdoptionDate.Value.ToShortDateString()
+                                }
+                                else
+                                {
+                                    <span class="text-muted">Not adopted</span>
+                                }
+                            </td>
+                            <td>
+                                <div class="btn-group" role="group">
+                                    @if (User.IsInRole("Adopter"))
+                                    {
+                                        @if (item.AdoptionApplicationStatus == EShop.Domain.Status.PetAdoptionApplicationStatus.Approved)
+                                        {
+                                            <form asp-controller="AdoptionApplications" asp-action="PayAdoption" method="post">
+                                                <article>
+                                                    <script src="https://checkout.stripe.com/checkout.js"
+                                                            class="stripe-button"
+                                                            data-key="@Stripe.Value.PublishableKey"
+                                                            data-locale="auto"
+                                                            data-description="Adoption Application Payment"
+                                                            data-amount="@(item.Pet.Price * 100)"
+                                                            data-label="Pay">
+                                                    </script>
+                                                </article>
+                                                <input type="hidden" name="Id" value="@item.Id" />
+                                            </form>
+                                        }
+                                    }
+                                    @if (User.IsInRole("Admin"))
+                                    {
+                                        @if (item.AdoptionApplicationStatus == EShop.Domain.Status.PetAdoptionApplicationStatus.Pending)
+                                        {
+                                            <a asp-action="Review" asp-route-id="@item.Id" class="btn btn-primary">
+                                                <i class="fas fa-clipboard-check mr-1"></i> Review
+                                            </a>
+                                        }
+                                    }
+                                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">
+                                        <i class="fas fa-info-circle mr-1"></i> Details
+                                    </a>
+                                    <a asp-action="CreateInvoice" asp-route-id="@item.Id" class="btn btn-secondary">
+                                        <i class="fas fa-file-download mr-1"></i> Download
+                                    </a>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.0/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

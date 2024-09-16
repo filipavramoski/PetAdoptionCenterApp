@@ -1,0 +1,169 @@
+﻿@* @model EShop.Domain.Models.AdoptionApplication
+
+@{
+    ViewData["Title"] = "Edit Adoption Application";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Edit Adoption Application</h1>
+
+<h4>Adoption Application</h4>
+<hr />
+
+@using (Html.BeginForm("Edit", "AdoptionApplications", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.AdopterId, htmlAttributes: new { @class = "control-label" })
+        @Html.DropDownList("AdopterId", (SelectList)ViewData["Adopters"], "FullName", new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.AdopterId, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.PetId, htmlAttributes: new { @class = "control-label" })
+        @Html.DropDownList("PetId", (SelectList)ViewData["Pets"], "Name", new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.PetId, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.AdoptionApplicationStatus, htmlAttributes: new { @class = "control-label" })
+        @Html.DropDownList("AdoptionApplicationStatus", Enum.GetValues(typeof(EShop.Domain.Status.PetAdoptionApplicationStatus)).Cast<EShop.Domain.Status.PetAdoptionApplicationStatus>().Select(e => new SelectListItem
+{
+    Value = e.ToString(),
+    Text = e.ToString()
+}), new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.AdoptionApplicationStatus, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.ApplicationDate, htmlAttributes: new { @class = "control-label" })
+        @Html.EditorFor(model => model.ApplicationDate, new { htmlAttributes = new { @class = "form-control" } })
+        @Html.ValidationMessageFor(model => model.ApplicationDate, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.AdoptionDate, htmlAttributes: new { @class = "control-label" })
+        @Html.EditorFor(model => model.AdoptionDate, new { htmlAttributes = new { @class = "form-control" } })
+        @Html.ValidationMessageFor(model => model.AdoptionDate, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        <input type="submit" value="Save" class="btn btn-primary" />
+        <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+    </div>
+}
+
+
+
+ *@
+
+        @model EShop.Domain.Models.AdoptionApplication
+
+@{
+    ViewData["Title"] = "Edit Adoption Application";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="form-container">
+    <h1>Edit Adoption Application</h1>
+
+    <h4>Adoption Application</h4>
+    <hr />
+
+    @using (Html.BeginForm("Edit", "AdoptionApplications", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.AdopterId, htmlAttributes: new { @class = "control-label" })
+            @Html.DropDownList("AdopterId", (SelectList)ViewData["Adopters"], "FullName", new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.AdopterId, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.PetId, htmlAttributes: new { @class = "control-label" })
+            @Html.DropDownList("PetId", (SelectList)ViewData["Pets"], "Name", new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.PetId, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.AdoptionApplicationStatus, htmlAttributes: new { @class = "control-label" })
+            @Html.DropDownList("AdoptionApplicationStatus", Enum.GetValues(typeof(EShop.Domain.Status.PetAdoptionApplicationStatus)).Cast<EShop.Domain.Status.PetAdoptionApplicationStatus>().Select(e => new SelectListItem
+   {
+       Value = e.ToString(),
+       Text = e.ToString()
+   }), new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.AdoptionApplicationStatus, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ApplicationDate, htmlAttributes: new { @class = "control-label" })
+            @Html.EditorFor(model => model.ApplicationDate, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.ApplicationDate, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.AdoptionDate, htmlAttributes: new { @class = "control-label" })
+            @Html.EditorFor(model => model.AdoptionDate, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.AdoptionDate, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            <input type="submit" value="Save" class="btn btn-primary" />
+            <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+        </div>
+    }
+</div>
+
+
+<style>
+    /* Container for the form */
+    .form-container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: rgba(255, 255, 255, 0.9); /* Slightly transparent white background */
+        border-radius: 10px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    }
+
+    /* Style the form groups */
+    .form-group {
+        margin-bottom: 1.5rem;
+    }
+
+    /* Style the form controls */
+    .form-control {
+        border-radius: 5px;
+        border: 1px solid #ced4da;
+        padding: 10px;
+        font-size: 1rem;
+    }
+
+    /* Style the submit and cancel buttons */
+    .btn {
+        border-radius: 5px;
+        padding: 10px 15px;
+        color: #fff;
+        text-decoration: none;
+        display: inline-block;
+        margin: 5px;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+    }
+
+    .btn-secondary {
+        background-color: #6c757d;
+        border-color: #6c757d;
+    }
+
+    /* Style for the links */
+    a {
+        text-decoration: none;
+    }
+
+</style>

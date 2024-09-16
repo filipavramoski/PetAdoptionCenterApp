@@ -1,0 +1,53 @@
+﻿@model EShop.Domain.Models.Shelter
+@{
+    ViewData["Title"] = "Shelter Details";
+}
+
+<h2>@Model.Name</h2>
+<p>Location: @Model.Location</p>
+
+<h3>Pets in this Shelter</h3>
+
+@if (ViewBag.Pets != null && ViewBag.Pets.Count > 0)
+{
+    <div class="pet-grid">
+        @foreach (var pet in ViewBag.Pets)
+        {
+            <div class="pet-card">
+                <img src="@pet.PhotoUrl" alt="@pet.Name" class="pet-photo" />
+                <h4>@pet.Name</h4>
+                <p>@pet.Breed</p>
+                <p>@pet.Age years old</p>
+                <p>Status: @pet.Status</p>
+            </div>
+        }
+    </div>
+}
+else
+{
+    <p>No pets available in this shelter.</p>
+}
+
+<style>
+    .pet-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr); /* Ensures 4 pets per row */
+        gap: 20px;
+        margin-top: 20px;
+    }
+
+    .pet-card {
+        border: 1px solid #ddd;
+        padding: 10px;
+        border-radius: 5px;
+        text-align: center;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+    .pet-photo {
+        max-width: 100%;
+        height: auto;
+        border-radius: 5px;
+        margin-bottom: 10px;
+    }
+</style>

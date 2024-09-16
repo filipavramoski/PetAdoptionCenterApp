@@ -1,0 +1,17 @@
+﻿@* @{
+    ViewData["Title"] = "Payment Failed";
+}
+
+<h2>Payment Failed</h2>
+<p>Unfortunately, your payment did not go through. Please try again or contact support.</p>
+<a asp-action="Index" asp-controller="Home" class="btn btn-success">Return Home</a>
+ *@
+@{
+    ViewData["Title"] = "Payment Failed";
+}
+
+<div class="container text-center my-5">
+    <h2 class="text-danger">Payment Failed</h2>
+    <p class="lead">Unfortunately, your payment did not go through. Please try again or contact support.</p>
+    <a asp-action="Index" asp-controller="Home" class="btn btn-primary">Return Home</a>
+</div>

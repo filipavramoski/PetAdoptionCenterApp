@@ -1,0 +1,86 @@
+﻿@model IEnumerable<EShop.Domain.Models.Pet>
+
+@{
+    ViewData["Title"] = "Pets";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h1 class="text-center text-4xl font-bold mb-8 text-custom-blue">Pets Page</h1>
+
+<div class="flex justify-center items-center mb-6">
+    <form method="get" action="@Url.Action("Index")" class="w-full max-w-md bg-white p-6 rounded-lg shadow-lg">
+        <div class="form-group">
+            @Html.Label("shelterId", "Shelter", htmlAttributes: new { @class = "block text-xl font-semibold mb-2 text-custom-teal" })
+            @Html.DropDownList("shelterId", (SelectList)ViewData["ShelterId"], "Select Shelter", new { @class = "form-control w-full p-2 border border-gray-300 rounded-lg", onchange = "this.form.submit();" })
+        </div>
+    </form>
+</div>
+
+<div class="mb-8 flex justify-center">
+    @if (User.IsInRole("Admin"))
+    {
+        <a href="@Url.Action("Create")" class="bg-custom-teal hover:bg-custom-purple text-white font-bold py-2 px-4 rounded-lg shadow-lg transition duration-300 ease-in-out transform hover:scale-105">
+            Create New Pet
+        </a>
+    }
+</div>
+
+
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+    @foreach (var pet in Model)
+    {
+        <div class="card mb-4 shadow-lg rounded-lg overflow-hidden">
+            <img src="@pet.PhotoUrl" class="card-img-top" alt="@pet.Name" />
+            <div class="p-4">
+                <h5 class="text-lg font-bold">@pet.Name</h5>
+                <p class="text-gray-700">
+                    <strong>Type:</strong> @pet.Type<br />
+                    <strong>Breed:</strong> @pet.Breed<br />
+                    <strong>Age:</strong> @pet.Age<br />
+                    <strong>Status:</strong> @pet.Status<br />
+                    <strong>Price:</strong> @pet.Price<br />
+                    <strong>Shelter:</strong> @pet.Shelter?.Name
+                </p>
+                <a href="@Url.Action("Details", new { id = pet.Id })" class="bg-custom-teal hover:bg-custom-purple text-white font-bold py-2 px-4 mt-6 rounded-lg shadow-lg transition duration-300 ease-in-out transform hover:scale-105">
+                    View Details
+                </a>
+
+                @if (pet.Status != EShop.Domain.Status.PetStatus.Adopted && User.IsInRole("Adopter"))
+                {
+                    <a href="@Url.Action("Apply", "AdoptionApplications", new { petId = pet.Id })" class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded-lg shadow-lg transition duration-300 ease-in-out mt-2 transform hover:scale-105">
+                        Apply for Adoption
+                    </a>
+                }
+            </div>
+        </div>
+    }
+</div>
+
+<style>
+    .card {
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .card-img-top {
+        object-fit: cover;
+        height: 200px; 
+    }
+
+    .card-body {
+        text-align: center;
+    }
+
+   
+    .card:hover {
+        transform: translateY(-10px);
+        transition: transform 0.3s ease;
+    }
+
+    .text-gray-700{
+        margin-bottom:5px;
+         }
+</style>
+
+
+

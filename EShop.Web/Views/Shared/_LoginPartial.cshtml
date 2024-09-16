@@ -1,0 +1,27 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using EShop.Domain.Identity
+@inject SignInManager<PetAdoptionCenterUser> SignInManager
+@inject UserManager<PetAdoptionCenterUser> UserManager
+
+<ul class="navbar-nav">
+    @if (SignInManager.IsSignedIn(User))
+    {
+        <li class="nav-item">
+            <a class="text-white hover:text-blue-200 transition-colors duration-200" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Hello @User.Identity?.Name!</a>
+        </li>
+        <li class="nav-item">
+            <form class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                <button type="submit" class="text-white hover:text-blue-200 transition-colors duration-200 bg-transparent border border-white hover:border-blue-200 rounded px-3 py-1 ml-2">Logout</button>
+            </form>
+        </li>
+    }
+    else
+    {
+        <li class="nav-item">
+            <a class="nav-link text-dark" href="/Home/Index">Register</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" href="/Home/Index">Login</a>
+        </li>
+    }
+</ul>

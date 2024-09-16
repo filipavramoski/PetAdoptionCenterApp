@@ -1,0 +1,44 @@
+﻿@* @{
+    ViewData["Title"] = "Payment Successful";
+}
+
+<h2>Payment Successful</h2>
+<p>Your payment for adopting the pet was successful! Thank you for giving a pet a new home.</p>
+<a asp-action="Index" asp-controller="Home" class="btn btn-success">Return Home</a>
+ *@
+@{
+    ViewData["Title"] = "Payment Successful";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .container {
+            max-width: 600px;
+            margin-top: 100px;
+            text-align: center;
+        }
+
+        .message {
+            font-size: 1.2rem;
+            margin-bottom: 20px;
+        }
+
+        .btn-success {
+            font-size: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2 class="mb-4">Payment Successful</h2>
+        <p class="message">Your payment for adopting the pet was successful! Thank you for giving a pet a new home.</p>
+        <a asp-action="Index" asp-controller="Home" class="btn btn-success">Return Home</a>
+    </div>
+</body>
+</html>

@@ -1,0 +1,127 @@
+﻿@* @model EShop.Domain.Models.AdoptionApplication
+
+@{
+    ViewData["Title"] = "Review Application";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Review Application</h1>
+
+<div>
+    <h4>Application Details</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Pet
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Pet.Name
+        </dd>
+        <dt class="col-sm-2">
+            Adopter
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Adopter.FirstName @Model.Adopter.LastName
+        </dd>
+        <dt class="col-sm-2">
+            Application Date
+        </dt>
+        <dd class="col-sm-10">
+            @Model.ApplicationDate.ToShortDateString()
+        </dd>
+        <dt class="col-sm-2">
+            Status
+        </dt>
+        <dd class="col-sm-10">
+            @Model.AdoptionApplicationStatus
+        </dd>
+    </dl>
+
+    <form asp-action="Review" method="post">
+        <input type="hidden" asp-for="Id" />
+        <button type="submit" name="decision" value="Accept" class="btn btn-success">Accept</button>
+        <button type="submit" name="decision" value="Deny" class="btn btn-danger">Deny</button>
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </form>
+</div>
+ *@
+
+        @model EShop.Domain.Models.AdoptionApplication
+
+@{
+    ViewData["Title"] = "Review Application";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .container {
+            max-width: 800px;
+            margin-top: 50px;
+        }
+
+        .form-buttons {
+            margin-top: 20px;
+        }
+
+            .form-buttons button {
+                margin-right: 10px;
+            }
+
+            .form-buttons a {
+                margin-left: 10px;
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="mb-4">Review Application</h1>
+
+        <div>
+            <h4 class="mb-3">Application Details</h4>
+            <hr />
+            <dl class="row">
+                <dt class="col-sm-3">
+                    Pet
+                </dt>
+                <dd class="col-sm-9">
+                    @Model.Pet.Name
+                </dd>
+                <dt class="col-sm-3">
+                    Adopter
+                </dt>
+                <dd class="col-sm-9">
+                    @Model.Adopter.FirstName @Model.Adopter.LastName
+                </dd>
+                <dt class="col-sm-3">
+                    Application Date
+                </dt>
+                <dd class="col-sm-9">
+                    @Model.ApplicationDate.ToShortDateString()
+                </dd>
+                <dt class="col-sm-3">
+                    Status
+                </dt>
+                <dd class="col-sm-9">
+                    @Model.AdoptionApplicationStatus
+                </dd>
+            </dl>
+
+            <form asp-action="Review" method="post">
+                <input type="hidden" asp-for="Id" />
+                <div class="form-buttons">
+                    <button type="submit" name="decision" value="Accept" class="btn btn-success">Accept</button>
+                    <button type="submit" name="decision" value="Deny" class="btn btn-danger">Deny</button>
+                    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,79 @@
+﻿@* 
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+
+@using Microsoft.Extensions.Options;
+@inject IOptions<EShop.Domain.StripeSettings> Stripe;
+@{
+    var price = (int) ViewData["Price"];
+}
+
+<html>
+    <head></head>
+    <body>
+    <form asp-controller="AdoptionApplications" asp-action="PayAdoption" method="post">
+        <article>
+            <script src="https://checkout.stripe.com/checkout.js"
+                    class="stripe-button"
+                    data-key="@Stripe.Value.PublishableKey"
+                    data-locale="auto"
+                    data-description="EShop Application Payment"
+                    data-amount="@(price * 100)"
+                    data-label="Pay $@price">
+            </script>
+        </article>
+    </form>
+    </body>
+</html> *@
+
+@using Microsoft.Extensions.Options;
+@inject IOptions<EShop.Domain.StripeSettings> Stripe;
+
+@{
+    var price = (int)ViewData["Price"];
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .container {
+            max-width: 600px;
+            margin-top: 50px;
+        }
+
+        .payment-btn {
+            text-align: center;
+        }
+
+        .stripe-button {
+            margin: 0 auto;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2 class="text-center mb-4">Complete Your Payment</h2>
+        <p class="text-center mb-4">Please review the details below and proceed with the payment.</p>
+        <div class="text-center">
+            <h4 class="mb-3">Amount to Pay: $@price</h4>
+            <form asp-controller="AdoptionApplications" asp-action="PayAdoption" method="post">
+                <article class="payment-btn">
+                    <script src="https://checkout.stripe.com/checkout.js"
+                            class="stripe-button"
+                            data-key="@Stripe.Value.PublishableKey"
+                            data-locale="auto"
+                            data-description="EShop Application Payment"
+                            data-amount="@(price * 100)"
+                            data-label="Pay $@price">
+                    </script>
+                </article>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
