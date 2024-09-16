@@ -1,151 +1,147 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\",
+  "WorkspaceRootPath": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Repository\\obj\\EShop.Repository.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EShop.Repository\\obj\\EShop.Repository.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.domain\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.domain\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\views\\pets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\views\\pets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\pets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\views\\shelters\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\views\\shelters\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\shelters\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\views\\pets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\views\\pets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\pets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\views\\pets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\views\\pets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\pets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\views\\adoptionapplications\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\views\\adoptionapplications\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\adoptionapplications\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\views\\adoptionapplications\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\views\\adoptionapplications\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\adoptionapplications\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\views\\adoptionapplications\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\views\\adoptionapplications\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\adoptionapplications\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\views\\pets\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\views\\pets\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\pets\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\views\\pets\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\views\\pets\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\pets\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\controllers\\adoptionapplicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\controllers\\adoptionapplicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\controllers\\adoptionapplicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.repository\\implementation\\adoptionapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.repository\\implementation\\adoptionapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\implementation\\adoptionapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.service\\implementation\\adoptionapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.service\\implementation\\adoptionapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|solutionrelative:eshop.service\\implementation\\adoptionapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\views\\adoptionapplications\\successpayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\views\\adoptionapplications\\successpayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\adoptionapplications\\successpayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\views\\adoptionapplications\\review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\views\\adoptionapplications\\review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\adoptionapplications\\review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\views\\adoptionapplications\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\views\\adoptionapplications\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\adoptionapplications\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.domain\\models\\adoptionapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.domain\\models\\adoptionapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\models\\adoptionapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.repository\\interface\\ipetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.repository\\interface\\ipetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\interface\\ipetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConcertAppDB/True/SqlTable/dbo.AspNetUserRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -158,39 +154,39 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConcertAppDB/True/SqlTable/dbo.AspNetRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\controllers\\shelterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\controllers\\shelterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\controllers\\shelterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\views\\adoptionapplications\\payadoption.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\views\\adoptionapplications\\payadoption.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\adoptionapplications\\payadoption.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\views\\shelters\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\views\\shelters\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\shelters\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\views\\shelters\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\views\\shelters\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\shelters\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\views\\shelters\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\views\\shelters\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\shelters\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\views\\shelters\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\views\\shelters\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\shelters\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\views\\adoptionapplications\\failedpayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\views\\adoptionapplications\\failedpayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\adoptionapplications\\failedpayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\views\\adoptionapplications\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\views\\adoptionapplications\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\adoptionapplications\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -209,102 +205,102 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConcertAppDB/True/SqlTable/dbo.AspNetUserClaims.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.domain\\identity\\petadoptioncenteruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.domain\\identity\\petadoptioncenteruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\identity\\petadoptioncenteruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.domain\\status\\petadoptionapplicationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.domain\\status\\petadoptionapplicationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\status\\petadoptionapplicationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.domain\\status\\pettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.domain\\status\\pettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\status\\pettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.domain\\status\\petstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.domain\\status\\petstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\status\\petstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.domain\\models\\shelter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.domain\\models\\shelter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\models\\shelter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.domain\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.domain\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.repository\\implementation\\petrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.repository\\implementation\\petrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\implementation\\petrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.repository\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.repository\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.service\\implementation\\petservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.service\\implementation\\petservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|solutionrelative:eshop.service\\implementation\\petservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.service\\interface\\ipetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.service\\interface\\ipetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|solutionrelative:eshop.service\\interface\\ipetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.repository\\interface\\ishelterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.repository\\interface\\ishelterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\interface\\ishelterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.repository\\implementation\\shelterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.repository\\implementation\\shelterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\implementation\\shelterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.repository\\migrations\\20240911203228_sadasd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.repository\\migrations\\20240911203228_sadasd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\migrations\\20240911203228_sadasd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.service\\interface\\ishelterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.service\\interface\\ishelterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|solutionrelative:eshop.service\\interface\\ishelterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.service\\implementation\\shelterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.service\\implementation\\shelterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|solutionrelative:eshop.service\\implementation\\shelterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.web\\controllers\\api\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.web\\controllers\\api\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\controllers\\api\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.domain\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.domain\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.repository\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.repository\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConcertAppDB/True/SqlTable/dbo.Concert.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.repository\\migrations\\20240514211919_nndd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.repository\\migrations\\20240514211919_nndd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\migrations\\20240514211919_nndd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\__ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\__ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EShop.Web\\Views\\__ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.repository\\migrations\\20240913165309_dbdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.repository\\migrations\\20240913165309_dbdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\migrations\\20240913165309_dbdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\freshpc\\desktop\\finki semestri\\6ti semestar\\integrirani sistemi\\lab5a-211063\\integrated_systems\\eshop.repository\\migrations\\20240913165602_newnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\freshpc\\source\\repos\\filipavramoski\\petadoptioncenterapp\\eshop.repository\\migrations\\20240913165602_newnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\migrations\\20240913165602_newnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -315,40 +311,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EShop.Repository.csproj.nuget.dgspec.json",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Repository\\obj\\EShop.Repository.csproj.nuget.dgspec.json",
-              "RelativeDocumentMoniker": "EShop.Repository\\obj\\EShop.Repository.csproj.nuget.dgspec.json",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Repository\\obj\\EShop.Repository.csproj.nuget.dgspec.json",
-              "RelativeToolTip": "EShop.Repository\\obj\\EShop.Repository.csproj.nuget.dgspec.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-16T13:13:33.383Z",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\Pets\\Details.cshtml",
+              "RelativeDocumentMoniker": "EShop.Web\\Views\\Pets\\Details.cshtml",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\Pets\\Details.cshtml",
+              "RelativeToolTip": "EShop.Web\\Views\\Pets\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T20:52:41.922Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\Pets\\Details.cshtml",
-              "RelativeDocumentMoniker": "EShop.Web\\Views\\Pets\\Details.cshtml",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\Pets\\Details.cshtml",
-              "RelativeToolTip": "EShop.Web\\Views\\Pets\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-11T20:52:41.922Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "EShop.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "EShop.Web\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAGYAAAAAAAAAAAAuwHIAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -356,11 +340,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "PetsController.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Controllers\\PetsController.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Controllers\\PetsController.cs",
               "RelativeDocumentMoniker": "EShop.Web\\Controllers\\PetsController.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Controllers\\PetsController.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Controllers\\PetsController.cs",
               "RelativeToolTip": "EShop.Web\\Controllers\\PetsController.cs",
               "ViewState": "AQIAALEAAAAAAAAAAAAqwLYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -368,11 +352,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Apply.cshtml",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\AdoptionApplications\\Apply.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\AdoptionApplications\\Apply.cshtml",
               "RelativeDocumentMoniker": "EShop.Web\\Views\\AdoptionApplications\\Apply.cshtml",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\AdoptionApplications\\Apply.cshtml",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\AdoptionApplications\\Apply.cshtml",
               "RelativeToolTip": "EShop.Web\\Views\\AdoptionApplications\\Apply.cshtml",
               "ViewState": "AQIAABIAAAAAAAAAAAAAABkAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -380,11 +364,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\Pets\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\Pets\\Index.cshtml",
               "RelativeDocumentMoniker": "EShop.Web\\Views\\Pets\\Index.cshtml",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\Pets\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\Pets\\Index.cshtml",
               "RelativeToolTip": "EShop.Web\\Views\\Pets\\Index.cshtml",
               "ViewState": "AQIAAEUAAAAAAAAAAAAAABQAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -392,11 +376,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\Pets\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\Pets\\Create.cshtml",
               "RelativeDocumentMoniker": "EShop.Web\\Views\\Pets\\Create.cshtml",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\Pets\\Create.cshtml",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\Pets\\Create.cshtml",
               "RelativeToolTip": "EShop.Web\\Views\\Pets\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -404,11 +388,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\Shelters\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\Shelters\\Index.cshtml",
               "RelativeDocumentMoniker": "EShop.Web\\Views\\Shelters\\Index.cshtml",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\Shelters\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\Shelters\\Index.cshtml",
               "RelativeToolTip": "EShop.Web\\Views\\Shelters\\Index.cshtml",
               "ViewState": "AQIAAG4AAAAAAAAAAAAqwIEAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -416,11 +400,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "EShop.Web\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "EShop.Web\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAEcAAAAAAAAAAAAAAHQAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -428,24 +412,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Domain\\Models\\BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Domain\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "EShop.Domain\\Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Domain\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Domain\\Models\\BaseEntity.cs",
               "RelativeToolTip": "EShop.Domain\\Models\\BaseEntity.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAqwAkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T08:07:09.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T08:07:09.384Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\AdoptionApplications\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\AdoptionApplications\\Details.cshtml",
               "RelativeDocumentMoniker": "EShop.Web\\Views\\AdoptionApplications\\Details.cshtml",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\AdoptionApplications\\Details.cshtml",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\AdoptionApplications\\Details.cshtml",
               "RelativeToolTip": "EShop.Web\\Views\\AdoptionApplications\\Details.cshtml",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -453,11 +436,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\Pets\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\Pets\\Delete.cshtml",
               "RelativeDocumentMoniker": "EShop.Web\\Views\\Pets\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\Pets\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\Pets\\Delete.cshtml",
               "RelativeToolTip": "EShop.Web\\Views\\Pets\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -465,11 +448,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\AdoptionApplications\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\AdoptionApplications\\Index.cshtml",
               "RelativeDocumentMoniker": "EShop.Web\\Views\\AdoptionApplications\\Index.cshtml",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\AdoptionApplications\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\AdoptionApplications\\Index.cshtml",
               "RelativeToolTip": "EShop.Web\\Views\\AdoptionApplications\\Index.cshtml",
               "ViewState": "AQIAAMUAAAAAAAAAAAAqwM8AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -477,11 +460,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "AdoptionApplicationService.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Service\\Implementation\\AdoptionApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Service\\Implementation\\AdoptionApplicationService.cs",
               "RelativeDocumentMoniker": "EShop.Service\\Implementation\\AdoptionApplicationService.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Service\\Implementation\\AdoptionApplicationService.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Service\\Implementation\\AdoptionApplicationService.cs",
               "RelativeToolTip": "EShop.Service\\Implementation\\AdoptionApplicationService.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAowCMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -489,11 +472,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "EShop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeToolTip": "EShop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "ViewState": "AQIAAK0AAAAAAAAAAAAqwL8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -501,11 +484,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\Pets\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\Pets\\Edit.cshtml",
               "RelativeDocumentMoniker": "EShop.Web\\Views\\Pets\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\Pets\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\Pets\\Edit.cshtml",
               "RelativeToolTip": "EShop.Web\\Views\\Pets\\Edit.cshtml",
               "ViewState": "AQIAABUAAAAAAAAAAADwvyQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -513,11 +496,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "AdoptionApplicationsController.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Controllers\\AdoptionApplicationsController.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Controllers\\AdoptionApplicationsController.cs",
               "RelativeDocumentMoniker": "EShop.Web\\Controllers\\AdoptionApplicationsController.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Controllers\\AdoptionApplicationsController.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Controllers\\AdoptionApplicationsController.cs",
               "RelativeToolTip": "EShop.Web\\Controllers\\AdoptionApplicationsController.cs",
               "ViewState": "AQIAANkAAAAAAAAAAADwv98AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -525,11 +508,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "EShop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeToolTip": "EShop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -537,23 +520,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AQIAALcSAAAAAAAAAIAwwLcSAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2024-09-14T22:34:56.06Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "AdoptionApplicationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Repository\\Implementation\\AdoptionApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Repository\\Implementation\\AdoptionApplicationRepository.cs",
               "RelativeDocumentMoniker": "EShop.Repository\\Implementation\\AdoptionApplicationRepository.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Repository\\Implementation\\AdoptionApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Repository\\Implementation\\AdoptionApplicationRepository.cs",
               "RelativeToolTip": "EShop.Repository\\Implementation\\AdoptionApplicationRepository.cs",
               "ViewState": "AQIAADQAAAAAAAAAAAAjwCIAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -561,11 +544,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "Review.cshtml",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\AdoptionApplications\\Review.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\AdoptionApplications\\Review.cshtml",
               "RelativeDocumentMoniker": "EShop.Web\\Views\\AdoptionApplications\\Review.cshtml",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\AdoptionApplications\\Review.cshtml",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\AdoptionApplications\\Review.cshtml",
               "RelativeToolTip": "EShop.Web\\Views\\AdoptionApplications\\Review.cshtml",
               "ViewState": "AQIAAFkAAAAAAAAAAAAwwGMAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -573,11 +556,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "SuccessPayment.cshtml",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\AdoptionApplications\\SuccessPayment.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\AdoptionApplications\\SuccessPayment.cshtml",
               "RelativeDocumentMoniker": "EShop.Web\\Views\\AdoptionApplications\\SuccessPayment.cshtml",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\AdoptionApplications\\SuccessPayment.cshtml",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\AdoptionApplications\\SuccessPayment.cshtml",
               "RelativeToolTip": "EShop.Web\\Views\\AdoptionApplications\\SuccessPayment.cshtml",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -585,11 +568,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "EShop.Web\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeToolTip": "EShop.Web\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -597,11 +580,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\AdoptionApplications\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\AdoptionApplications\\Edit.cshtml",
               "RelativeDocumentMoniker": "EShop.Web\\Views\\AdoptionApplications\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\AdoptionApplications\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\AdoptionApplications\\Edit.cshtml",
               "RelativeToolTip": "EShop.Web\\Views\\AdoptionApplications\\Edit.cshtml",
               "ViewState": "AQIAAD0AAAAAAAAAAAAuwKcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -609,11 +592,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "AdoptionApplication.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Domain\\Models\\AdoptionApplication.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Domain\\Models\\AdoptionApplication.cs",
               "RelativeDocumentMoniker": "EShop.Domain\\Models\\AdoptionApplication.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Domain\\Models\\AdoptionApplication.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Domain\\Models\\AdoptionApplication.cs",
               "RelativeToolTip": "EShop.Domain\\Models\\AdoptionApplication.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAgwA8AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -621,11 +604,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Program.cs",
               "RelativeDocumentMoniker": "EShop.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Program.cs",
               "RelativeToolTip": "EShop.Web\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAADgAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -633,11 +616,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "EShop.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "RelativeToolTip": "EShop.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "ViewState": "AQIAAHQAAAAAAAAAAAAQwH8AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -645,11 +628,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "EShop.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeToolTip": "EShop.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -657,11 +640,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "EShop.Web\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Controllers\\HomeController.cs",
               "RelativeToolTip": "EShop.Web\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -669,11 +652,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 29,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\appsettings.json",
               "RelativeDocumentMoniker": "EShop.Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\appsettings.json",
               "RelativeToolTip": "EShop.Web\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -681,11 +664,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 30,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Repository\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Repository\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "EShop.Repository\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Repository\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Repository\\ApplicationDbContext.cs",
               "RelativeToolTip": "EShop.Repository\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -693,11 +676,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 28,
               "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "EShop.Web\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\ScaffoldingReadMe.txt",
               "RelativeToolTip": "EShop.Web\\ScaffoldingReadMe.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -705,11 +688,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 31,
               "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Repository\\Implementation\\Repository.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Repository\\Implementation\\Repository.cs",
               "RelativeDocumentMoniker": "EShop.Repository\\Implementation\\Repository.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Repository\\Implementation\\Repository.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Repository\\Implementation\\Repository.cs",
               "RelativeToolTip": "EShop.Repository\\Implementation\\Repository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -717,11 +700,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 32,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Repository\\Interface\\IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Repository\\Interface\\IRepository.cs",
               "RelativeDocumentMoniker": "EShop.Repository\\Interface\\IRepository.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Repository\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Repository\\Interface\\IRepository.cs",
               "RelativeToolTip": "EShop.Repository\\Interface\\IRepository.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAhwBwAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -729,11 +712,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 33,
               "Title": "IPetRepository.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Repository\\Interface\\IPetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Repository\\Interface\\IPetRepository.cs",
               "RelativeDocumentMoniker": "EShop.Repository\\Interface\\IPetRepository.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Repository\\Interface\\IPetRepository.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Repository\\Interface\\IPetRepository.cs",
               "RelativeToolTip": "EShop.Repository\\Interface\\IPetRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -741,7 +724,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 34,
               "Title": "dbo.AspNetUserRoles [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConcertAppDB/True/SqlTable/dbo.AspNetUserRoles.sql",
               "ToolTip": "dbo.AspNetUserRoles [Data]",
@@ -750,11 +733,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 35,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "EShop.Web\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "EShop.Web\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -762,7 +745,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 37,
               "Title": "dbo.AspNetUsers [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConcertAppDB/True/SqlTable/dbo.AspNetUsers.sql",
               "ToolTip": "dbo.AspNetUsers [Data]",
@@ -771,7 +754,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 38,
               "Title": "dbo.AspNetRoles [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConcertAppDB/True/SqlTable/dbo.AspNetRoles.sql",
               "ToolTip": "dbo.AspNetRoles [Data]",
@@ -780,21 +763,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 36,
               "Title": "SQLQuery2.sql ",
               "DocumentMoniker": "C:\\Users\\FRESHPC\\AppData\\Local\\Temp\\fnat12zg..sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\fnat12zg..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\fnat12zg..sql",
               "ToolTip": "SQLQuery2.sql *",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2024-09-14T19:14:28.604Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 40,
               "Title": "PayAdoption.cshtml",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\AdoptionApplications\\PayAdoption.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\AdoptionApplications\\PayAdoption.cshtml",
               "RelativeDocumentMoniker": "EShop.Web\\Views\\AdoptionApplications\\PayAdoption.cshtml",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\AdoptionApplications\\PayAdoption.cshtml",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\AdoptionApplications\\PayAdoption.cshtml",
               "RelativeToolTip": "EShop.Web\\Views\\AdoptionApplications\\PayAdoption.cshtml",
               "ViewState": "AQIAAE8AAAAAAAAAAAAAAE8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -802,11 +785,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 39,
               "Title": "SheltersController.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Controllers\\SheltersController.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Controllers\\SheltersController.cs",
               "RelativeDocumentMoniker": "EShop.Web\\Controllers\\SheltersController.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Controllers\\SheltersController.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Controllers\\SheltersController.cs",
               "RelativeToolTip": "EShop.Web\\Controllers\\SheltersController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -814,11 +797,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 42,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\Shelters\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\Shelters\\Delete.cshtml",
               "RelativeDocumentMoniker": "EShop.Web\\Views\\Shelters\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\Shelters\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\Shelters\\Delete.cshtml",
               "RelativeToolTip": "EShop.Web\\Views\\Shelters\\Delete.cshtml",
               "ViewState": "AQIAAFgAAAAAAAAAAAAEwGIAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -826,11 +809,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 41,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\Shelters\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\Shelters\\Edit.cshtml",
               "RelativeDocumentMoniker": "EShop.Web\\Views\\Shelters\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\Shelters\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\Shelters\\Edit.cshtml",
               "RelativeToolTip": "EShop.Web\\Views\\Shelters\\Edit.cshtml",
               "ViewState": "AQIAAFwAAAAAAAAAAAAEwGYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -838,11 +821,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 43,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\Shelters\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\Shelters\\Create.cshtml",
               "RelativeDocumentMoniker": "EShop.Web\\Views\\Shelters\\Create.cshtml",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\Shelters\\Create.cshtml",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\Shelters\\Create.cshtml",
               "RelativeToolTip": "EShop.Web\\Views\\Shelters\\Create.cshtml",
               "ViewState": "AQIAAIgAAAAAAAAAAAAEwJIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -850,11 +833,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 44,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\Shelters\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\Shelters\\Details.cshtml",
               "RelativeDocumentMoniker": "EShop.Web\\Views\\Shelters\\Details.cshtml",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\Shelters\\Details.cshtml",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\Shelters\\Details.cshtml",
               "RelativeToolTip": "EShop.Web\\Views\\Shelters\\Details.cshtml",
               "ViewState": "AQIAADUAAAAAAAAAAAAAADIAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -862,11 +845,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 45,
               "Title": "FailedPayment.cshtml",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\AdoptionApplications\\FailedPayment.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\AdoptionApplications\\FailedPayment.cshtml",
               "RelativeDocumentMoniker": "EShop.Web\\Views\\AdoptionApplications\\FailedPayment.cshtml",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\AdoptionApplications\\FailedPayment.cshtml",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\AdoptionApplications\\FailedPayment.cshtml",
               "RelativeToolTip": "EShop.Web\\Views\\AdoptionApplications\\FailedPayment.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -874,11 +857,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 46,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\AdoptionApplications\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\AdoptionApplications\\Delete.cshtml",
               "RelativeDocumentMoniker": "EShop.Web\\Views\\AdoptionApplications\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\AdoptionApplications\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\AdoptionApplications\\Delete.cshtml",
               "RelativeToolTip": "EShop.Web\\Views\\AdoptionApplications\\Delete.cshtml",
               "ViewState": "AQIAAIYAAAAAAAAAAAAYwJsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -886,7 +869,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 49,
               "Title": "dbo.AdoptionApplication [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConcertAppDB/True/SqlTable/dbo.AdoptionApplication.sql",
               "ToolTip": "dbo.AdoptionApplication [Data]",
@@ -895,11 +878,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 47,
               "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "EShop.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeToolTip": "EShop.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -907,7 +890,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 48,
               "Title": "dbo.AspNetRoleClaims [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConcertAppDB/True/SqlTable/dbo.AspNetRoleClaims.sql",
               "ToolTip": "dbo.AspNetRoleClaims [Data]",
@@ -916,7 +899,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 50,
               "Title": "dbo.AspNetUserTokens [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConcertAppDB/True/SqlTable/dbo.AspNetUserTokens.sql",
               "ToolTip": "dbo.AspNetUserTokens [Data]",
@@ -925,7 +908,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 52,
               "Title": "dbo.AspNetUserClaims [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConcertAppDB/True/SqlTable/dbo.AspNetUserClaims.sql",
               "ToolTip": "dbo.AspNetUserClaims [Data]",
@@ -934,7 +917,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 51,
               "Title": "dbo.AspNetUserLogins [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConcertAppDB/True/SqlTable/dbo.AspNetUserLogins.sql",
               "ToolTip": "dbo.AspNetUserLogins [Data]",
@@ -943,11 +926,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 56,
               "Title": "PetStatus.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Domain\\Status\\PetStatus.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Domain\\Status\\PetStatus.cs",
               "RelativeDocumentMoniker": "EShop.Domain\\Status\\PetStatus.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Domain\\Status\\PetStatus.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Domain\\Status\\PetStatus.cs",
               "RelativeToolTip": "EShop.Domain\\Status\\PetStatus.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -955,11 +938,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 54,
               "Title": "PetAdoptionApplicationStatus.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Domain\\Status\\PetAdoptionApplicationStatus.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Domain\\Status\\PetAdoptionApplicationStatus.cs",
               "RelativeDocumentMoniker": "EShop.Domain\\Status\\PetAdoptionApplicationStatus.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Domain\\Status\\PetAdoptionApplicationStatus.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Domain\\Status\\PetAdoptionApplicationStatus.cs",
               "RelativeToolTip": "EShop.Domain\\Status\\PetAdoptionApplicationStatus.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -967,11 +950,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 53,
               "Title": "PetAdoptionCenterUser.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Domain\\Identity\\PetAdoptionCenterUser.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Domain\\Identity\\PetAdoptionCenterUser.cs",
               "RelativeDocumentMoniker": "EShop.Domain\\Identity\\PetAdoptionCenterUser.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Domain\\Identity\\PetAdoptionCenterUser.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Domain\\Identity\\PetAdoptionCenterUser.cs",
               "RelativeToolTip": "EShop.Domain\\Identity\\PetAdoptionCenterUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -979,11 +962,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 57,
               "Title": "Shelter.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Domain\\Models\\Shelter.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Domain\\Models\\Shelter.cs",
               "RelativeDocumentMoniker": "EShop.Domain\\Models\\Shelter.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Domain\\Models\\Shelter.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Domain\\Models\\Shelter.cs",
               "RelativeToolTip": "EShop.Domain\\Models\\Shelter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -991,11 +974,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 58,
               "Title": "Pet.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Domain\\Models\\Pet.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Domain\\Models\\Pet.cs",
               "RelativeDocumentMoniker": "EShop.Domain\\Models\\Pet.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Domain\\Models\\Pet.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Domain\\Models\\Pet.cs",
               "RelativeToolTip": "EShop.Domain\\Models\\Pet.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAQwBkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1003,11 +986,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 55,
               "Title": "PetType.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Domain\\Status\\PetType.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Domain\\Status\\PetType.cs",
               "RelativeDocumentMoniker": "EShop.Domain\\Status\\PetType.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Domain\\Status\\PetType.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Domain\\Status\\PetType.cs",
               "RelativeToolTip": "EShop.Domain\\Status\\PetType.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1015,11 +998,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 76,
               "Title": "20240913165309_dbdb.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Repository\\Migrations\\20240913165309_dbdb.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Repository\\Migrations\\20240913165309_dbdb.cs",
               "RelativeDocumentMoniker": "EShop.Repository\\Migrations\\20240913165309_dbdb.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Repository\\Migrations\\20240913165309_dbdb.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Repository\\Migrations\\20240913165309_dbdb.cs",
               "RelativeToolTip": "EShop.Repository\\Migrations\\20240913165309_dbdb.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1027,11 +1010,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 77,
               "Title": "20240913165602_newnew.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Repository\\Migrations\\20240913165602_newnew.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Repository\\Migrations\\20240913165602_newnew.cs",
               "RelativeDocumentMoniker": "EShop.Repository\\Migrations\\20240913165602_newnew.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Repository\\Migrations\\20240913165602_newnew.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Repository\\Migrations\\20240913165602_newnew.cs",
               "RelativeToolTip": "EShop.Repository\\Migrations\\20240913165602_newnew.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1039,11 +1022,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 59,
               "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\Shared\\_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "EShop.Web\\Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeToolTip": "EShop.Web\\Views\\Shared\\_Layout.cshtml.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -1051,11 +1034,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 60,
               "Title": "PetRepository.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Repository\\Implementation\\PetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Repository\\Implementation\\PetRepository.cs",
               "RelativeDocumentMoniker": "EShop.Repository\\Implementation\\PetRepository.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Repository\\Implementation\\PetRepository.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Repository\\Implementation\\PetRepository.cs",
               "RelativeToolTip": "EShop.Repository\\Implementation\\PetRepository.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAgwCQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1063,11 +1046,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 61,
               "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Repository\\Interface\\IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Repository\\Interface\\IUserRepository.cs",
               "RelativeDocumentMoniker": "EShop.Repository\\Interface\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Repository\\Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Repository\\Interface\\IUserRepository.cs",
               "RelativeToolTip": "EShop.Repository\\Interface\\IUserRepository.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1075,11 +1058,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 62,
               "Title": "PetService.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Service\\Implementation\\PetService.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Service\\Implementation\\PetService.cs",
               "RelativeDocumentMoniker": "EShop.Service\\Implementation\\PetService.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Service\\Implementation\\PetService.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Service\\Implementation\\PetService.cs",
               "RelativeToolTip": "EShop.Service\\Implementation\\PetService.cs",
               "ViewState": "AQIAAC4AAAAAAAAAAADgvzgAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1087,11 +1070,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 63,
               "Title": "IPetService.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Service\\Interface\\IPetService.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Service\\Interface\\IPetService.cs",
               "RelativeDocumentMoniker": "EShop.Service\\Interface\\IPetService.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Service\\Interface\\IPetService.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Service\\Interface\\IPetService.cs",
               "RelativeToolTip": "EShop.Service\\Interface\\IPetService.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAAAA0AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1099,11 +1082,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 65,
               "Title": "ShelterRepository.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Repository\\Implementation\\ShelterRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Repository\\Implementation\\ShelterRepository.cs",
               "RelativeDocumentMoniker": "EShop.Repository\\Implementation\\ShelterRepository.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Repository\\Implementation\\ShelterRepository.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Repository\\Implementation\\ShelterRepository.cs",
               "RelativeToolTip": "EShop.Repository\\Implementation\\ShelterRepository.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAqwAsAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1111,11 +1094,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 64,
               "Title": "IShelterRepository.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Repository\\Interface\\IShelterRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Repository\\Interface\\IShelterRepository.cs",
               "RelativeDocumentMoniker": "EShop.Repository\\Interface\\IShelterRepository.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Repository\\Interface\\IShelterRepository.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Repository\\Interface\\IShelterRepository.cs",
               "RelativeToolTip": "EShop.Repository\\Interface\\IShelterRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1123,11 +1106,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 66,
               "Title": "20240911203228_sadasd.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Repository\\Migrations\\20240911203228_sadasd.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Repository\\Migrations\\20240911203228_sadasd.cs",
               "RelativeDocumentMoniker": "EShop.Repository\\Migrations\\20240911203228_sadasd.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Repository\\Migrations\\20240911203228_sadasd.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Repository\\Migrations\\20240911203228_sadasd.cs",
               "RelativeToolTip": "EShop.Repository\\Migrations\\20240911203228_sadasd.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1135,11 +1118,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 68,
               "Title": "ShelterService.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Service\\Implementation\\ShelterService.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Service\\Implementation\\ShelterService.cs",
               "RelativeDocumentMoniker": "EShop.Service\\Implementation\\ShelterService.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Service\\Implementation\\ShelterService.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Service\\Implementation\\ShelterService.cs",
               "RelativeToolTip": "EShop.Service\\Implementation\\ShelterService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1147,11 +1130,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 67,
               "Title": "IShelterService.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Service\\Interface\\IShelterService.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Service\\Interface\\IShelterService.cs",
               "RelativeDocumentMoniker": "EShop.Service\\Interface\\IShelterService.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Service\\Interface\\IShelterService.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Service\\Interface\\IShelterService.cs",
               "RelativeToolTip": "EShop.Service\\Interface\\IShelterService.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAuwAsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1159,11 +1142,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 75,
               "Title": "__ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\__ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\__ViewImports.cshtml",
               "RelativeDocumentMoniker": "EShop.Web\\Views\\__ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\__ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\__ViewImports.cshtml",
               "RelativeToolTip": "EShop.Web\\Views\\__ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -1171,11 +1154,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 69,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "EShop.Web\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "EShop.Web\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -1183,11 +1166,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 70,
               "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Controllers\\API\\AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Controllers\\API\\AdminController.cs",
               "RelativeDocumentMoniker": "EShop.Web\\Controllers\\API\\AdminController.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Web\\Controllers\\API\\AdminController.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Web\\Controllers\\API\\AdminController.cs",
               "RelativeToolTip": "EShop.Web\\Controllers\\API\\AdminController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1195,11 +1178,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 71,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Domain\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Domain\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "EShop.Domain\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Domain\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Domain\\ErrorViewModel.cs",
               "RelativeToolTip": "EShop.Domain\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1207,11 +1190,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 72,
               "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Repository\\Implementation\\UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Repository\\Implementation\\UserRepository.cs",
               "RelativeDocumentMoniker": "EShop.Repository\\Implementation\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Repository\\Implementation\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Repository\\Implementation\\UserRepository.cs",
               "RelativeToolTip": "EShop.Repository\\Implementation\\UserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1219,7 +1202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 73,
               "Title": "dbo.Concert [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConcertAppDB/True/SqlTable/dbo.Concert.sql",
               "ToolTip": "dbo.Concert [Data]",
@@ -1228,11 +1211,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 74,
               "Title": "20240514211919_nndd.cs",
-              "DocumentMoniker": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Repository\\Migrations\\20240514211919_nndd.cs",
+              "DocumentMoniker": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Repository\\Migrations\\20240514211919_nndd.cs",
               "RelativeDocumentMoniker": "EShop.Repository\\Migrations\\20240514211919_nndd.cs",
-              "ToolTip": "C:\\Users\\FRESHPC\\Desktop\\finki semestri\\6ti semestar\\Integrirani sistemi\\Lab5A-211063\\integrated_systems\\EShop.Repository\\Migrations\\20240514211919_nndd.cs",
+              "ToolTip": "C:\\Users\\FRESHPC\\source\\repos\\filipavramoski\\PetAdoptionCenterApp\\EShop.Repository\\Migrations\\20240514211919_nndd.cs",
               "RelativeToolTip": "EShop.Repository\\Migrations\\20240514211919_nndd.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
