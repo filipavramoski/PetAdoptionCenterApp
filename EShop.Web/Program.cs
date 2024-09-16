@@ -9,6 +9,10 @@ using NuGet.Protocol.Core.Types;
 using EShop.Domain;
 using DocumentFormat.OpenXml.Spreadsheet;
 using Microsoft.AspNetCore.Identity;
+using EShop.Repository.BookRepo.Interface;
+using EShop.Service.BookService.Interface;
+using EShop.Service.BookService.Implementation;
+using EShop.Repository.BookRepo.Implementation;
 
 namespace EShop.Web
 {
@@ -16,8 +20,8 @@ namespace EShop.Web
 
 public class Program
 {
-        public static async Task Main(string[] args)
-        {
+ public static async Task Main(string[] args)
+ {
 
 
 
@@ -28,27 +32,32 @@ builder.Services.Configure<StripeSettings>(builder.Configuration.GetSection("Str
 
 // Configure DbContext
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
-builder.Services.AddDbContext<ApplicationDbContext>(options =>
+var booksConnectionString = builder.Configuration.GetConnectionString("BooksConnection") ?? throw new InvalidOperationException("Connection string 'PetStoreConnection' not found.");
+    builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
-
-// Configure Identity
-builder.Services.AddDefaultIdentity<PetAdoptionCenterUser>(options => options.SignIn.RequireConfirmedAccount = true)
+    builder.Services.AddDbContext<BooksDbContext>(options =>
+                options.UseSqlServer(booksConnectionString));
+            // Configure Identity
+            builder.Services.AddDefaultIdentity<PetAdoptionCenterUser>(options => options.SignIn.RequireConfirmedAccount = true)
      .AddRoles<IdentityRole>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+builder.Services.AddHttpClient();
 
-// Register repositories
-builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+            // Register repositories
+            builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IPetRepository, PetRepository>();
 builder.Services.AddScoped<IAdoptionApplicationRepository, AdoptionApplicationRepository>();
 builder.Services.AddScoped<IShelterRepository, ShelterRepository>();
+builder.Services.AddScoped(typeof(IBookRepository), typeof(BookRepository));
 
 
 
-// Register services
-builder.Services.AddTransient<IPetService, PetService>();
+            // Register services
+            builder.Services.AddTransient<IPetService, PetService>();
 builder.Services.AddTransient<IAdoptionApplicationService, AdoptionApplicationService>();
 builder.Services.AddTransient<IShelterService, ShelterService>();
+builder.Services.AddTransient<IBookService, BookService>();
 builder.Services.Configure<StripeSettings>(builder.Configuration.GetSection("Stripe"));
 
             builder.Services.ConfigureApplicationCookie(options =>

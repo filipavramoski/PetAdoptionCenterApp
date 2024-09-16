@@ -1,0 +1,29 @@
+﻿@model IEnumerable<EShop.Domain.BookApp.Book>
+
+@{
+    ViewData["Title"] = "Books";
+}
+
+<h2>Available Books</h2>
+
+<div class="container">
+    <div class="row">
+        @foreach (var book in Model)
+        {
+            <div class="col-md-4">
+                <div class="card mb-4 shadow-sm">
+                    <img class="card-img-top" src="@book.CoverImage" alt="Book cover for @book.Title" style="height: 225px; width: 100%; display: block;">
+                    <div class="card-body">
+                        <h5 class="card-title">@book.Title</h5>
+                        <p class="card-text">@book.Description</p>
+                        <p><strong>Price:</strong> $@book.Price</p>
+                        <p><strong>Rating:</strong> @book.Rating/5</p>
+                        <p><strong>Author:</strong> @book?.Author?.FirstName @book?.Author?.LastName</p>
+                        <p><strong>Publisher:</strong> @book?.Publisher?.Name</p>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
